@@ -77,6 +77,20 @@ Example:
 
 ---
 
+## Conclusion
+
+The Neural Network model successfully classifies messages as spam or not spam.
+
+Key Takeaways:
+- NLP preprocessing significantly improves text classification.
+- Neural networks can effectively capture patterns in text data.
+- The model achieved good performance based on accuracy and F1-score.
+
+Future improvements:
+- Use LSTM or Transformer models
+- Use larger datasets
+- Deploy as a web app
+
 ## How to Run
 
 Clone the repository:
